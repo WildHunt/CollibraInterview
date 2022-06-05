@@ -1,4 +1,4 @@
-package Patterns.Factory;
+package Patterns.Creational.Factory;
 
 public class App {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Patterns.Singleton;
+package Patterns.Creational.Singleton;
 
 public final class Singleton {
     private static volatile Singleton instance;

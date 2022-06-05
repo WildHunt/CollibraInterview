@@ -1,4 +1,4 @@
-package Patterns.Decorator;
+package Patterns.Structural.Decorator;
 
 public class Ferrari implements FormulaOne{
     public int position;

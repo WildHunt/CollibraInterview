@@ -1,4 +1,4 @@
-package Patterns.Builder;
+package Patterns.Creational.Builder;
 
 public class Director {
     public void constructRoadsterCar(Builder builder) {

@@ -1,4 +1,4 @@
-package Patterns.Decorator;
+package Patterns.Structural.Decorator;
 
 public class Mclaren implements FormulaOne{
     public int position;

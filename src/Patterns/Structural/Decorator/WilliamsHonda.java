@@ -1,4 +1,4 @@
-package Patterns.Decorator;
+package Patterns.Structural.Decorator;
 
 public class WilliamsHonda extends FormulaOneDecorator {
     public WilliamsHonda(FormulaOne formulaOne, int position, Tires tires, String alliance) {
